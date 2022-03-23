@@ -1,0 +1,18 @@
+.card_box {
+  border: 1px solid #000;
+  border-radius: 0.25rem;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+}
+
+.card_box:hover {
+  background-color: #CD7672;
+}
+
+.card_title {
+  font-weight: bold;
+}
+
+.card_title_false {
+  text-decoration: line-through
+}
